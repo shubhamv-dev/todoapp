@@ -1,0 +1,15 @@
+/* TodoApp.css */
+
+.todo-input {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 16px;
+}
+
+.add-button {
+    position: absolute;
+    right: 0;
+}
